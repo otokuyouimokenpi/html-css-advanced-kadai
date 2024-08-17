@@ -101,6 +101,14 @@ SP用のスタイル
     z-index: 100;
   }
 
+  #nav-sp ul {
+    padding-left: 0;
+  }
+
+  #nav-sp li {
+    list-style: none;
+  }
+
   #close {
     position: absolute;
     top: 20px;
